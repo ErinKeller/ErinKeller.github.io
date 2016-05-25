@@ -1,2 +1,0 @@
-# ErinKeller.github.io
-Hello
