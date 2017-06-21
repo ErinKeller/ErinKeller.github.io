@@ -1,2 +1,4 @@
 name: Erin L. Keller
 	markdown: kramdown
+
+theme: jekyll-theme-minimal
